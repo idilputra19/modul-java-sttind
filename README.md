@@ -99,7 +99,7 @@ This series of learning modules was created by **Idil Putra**, a student at **ST
 
 1. **Clone** the repository to your local machine using the following command:
     ```bash
-    git clone https://github.com/your-username/java-learning-modules.git
+    git clone https://github.com/idilputra19/modul-java-sttind.git
     ```
 
 2. Navigate to the project directory:
