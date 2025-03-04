@@ -127,8 +127,8 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 
 If you need help, guidance, or just want to connect, reach out to me at:
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **Twitter:** [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- **Email:** [idilputra.com@gmail.com](mailto:idilputra.com@gmail.com)
+
 
 ---
 
